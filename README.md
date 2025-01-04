@@ -1,1 +1,1 @@
-# HR-Analytics-and-Employee-Insights-using-SQl
+# HR Analytics and Employee Insights using SQl
